@@ -27,6 +27,10 @@ The goal of this project is to develop a data lake solution using Azure Databric
     - Based on how many rides the rider averages per month
     - Based on how many minutes the rider spends on a bike per month
 
+## System Architecture
+
+<img src="images/system_architecture.png" width="70%">
+
 ## Dataset
 
 Since the data from Divvy are anonymous, we have generated fake rider and account profiles along with fake payment data to go along with the data from Divvy.
